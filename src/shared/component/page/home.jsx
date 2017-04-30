@@ -41,7 +41,7 @@ const HomePage = ({ classes }: { classes: Object }) =>
     <div className="container">
       <div className="row">
         <div className="col-md-4 mb-4">
-          <h2 className="mb-3">Bootstrap</h2>
+          <h2 className="mb-3">Bootstrap - new</h2>
           <p>
             <button type="button" role="button" data-toggle="modal" data-target=".js-modal-example" className="btn btn-primary">Open Modal</button>
           </p>
